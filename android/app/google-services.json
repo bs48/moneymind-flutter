@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "816022498480",
+    "project_id": "moneymind-b72cb",
+    "storage_bucket": "moneymind-b72cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816022498480:android:3b346fa3705022f147df75",
+        "android_client_info": {
+          "package_name": "com.example.moneymind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816022498480-8cns566oftcqa5l8h4j8c30ccjio3jos.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moneymind",
+            "certificate_hash": "b4e6db0e78eb2aa42bfd99471828ef484112d7b6"
+          }
+        },
+        {
+          "client_id": "816022498480-22rs8m0f20fbim10dhbol54rjav8o369.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoMo3FxacpyVsaVJH2EYhjAIqWBAUMqpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816022498480-22rs8m0f20fbim10dhbol54rjav8o369.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
